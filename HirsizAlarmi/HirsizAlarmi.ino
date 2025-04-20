@@ -13,7 +13,7 @@
 bool butonaktifmi = false;
 unsigned long butonzamani = 0; // DATA ÇOK BÜYÜK OLACAĞI İÇİN UNSIGNED LONG İLE TUTULUYOR
 
-int maxrange = 60;  //--> BU KISMI ÖLÇMESİ İSTEDİĞİ MAX UZAKLIK OLARAK DEĞİŞTİREBİLİRSİNİZ. STANDART OLARAK KAPI EŞİK ARALIĞI SEÇİLDİ (60 CM).
+int maxrange = 150;  //--> BU KISMI ÖLÇMESİ İSTEDİĞİ MAX UZAKLIK OLARAK DEĞİŞTİREBİLİRSİNİZ. STANDART OLARAK KORİDOR GENİŞLİĞİ SEÇİLDİ (KAPI EŞİĞİ = 100-120 CM).
 int minrange = 2;   // --> MİNİMUM 2 CM OLMAK ZORUNDA, İSTEDİĞİNİZ ŞEKİLDE DEĞİŞTİREBİLİRSİNİZ.
 
 int sapma = 2;  //--> SAPMAYI 0 YAPMAYIN, BUTONA BASARKEN ELİNİZ KAYSA BİLE ÖTÜYOR (EN KÜÇÜK HAREKETTE) MİN 1 OLMAK ŞARTIYLA İSTEDİĞİNİZ DEĞERİ ATIYABİLİRSİNİZ.
