@@ -1,6 +1,6 @@
 # Çalışma Mantığı
 
-- Yeşil butona 3 saniye basılı tutunca bir uzaklığı hafızasına kaydeder. Ardından sürekli ölçüm yapar. Eğer herhangi bir anda, ölçtüğü uzaklık ile hafızasına kaydettiği uzaklık arasında sapma değerinden büyük bir fark oluşursa alet ötmeye başlar. Kırmızı butona basınca sistem devre dışı kalır.
+- Yeşil butona 3 saniye basılı tutunca bir uzaklığı hafızasına kaydeder. Ardından sürekli ölçüm yapar. Eğer herhangi bir anda, ölçtüğü uzaklık ile hafızasına kaydettiği uzaklık arasında sapma değerinden büyük bir fark oluşursa (önünden biri geçerse) alet ötmeye başlar. Kırmızı butona basınca sistem devre dışı kalır.
 
 - **Çalışıyorsa** LED sürekli yanar, **çalışmıyorsa** LED sönük kalır.
 
