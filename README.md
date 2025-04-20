@@ -4,4 +4,4 @@
 
 - **Çalışıyorsa** LED sürekli yanar, **çalışmıyorsa** LED sönük kalır.
 
-- İlk ölçümde eğer ölçüm yapamazsa veya girilen minimum ile maximum değerler dışında bil ölçüm yaparsa buzzer 3 kere ses çıkarır ve sonucunda LED söner. Sistem bu haliyle devre dışı şekilde kalır.
+- İlk ölçümde eğer ölçüm yapamazsa veya girilen minimum ile maximum değerler dışında bir ölçüm yaparsa buzzer 3 kere ses çıkarır ve sonucunda LED söner. Sistem bu haliyle devre dışı şekilde kalır.
